@@ -1,2 +1,2 @@
-# codereader
-Tool to help you read code
+# source code reader
+Tool to help you read source code
